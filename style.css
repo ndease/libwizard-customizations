@@ -1,0 +1,223 @@
+:root{
+font-size:1rem;
+}
+.btn-primary{
+  border-width:1px !important;
+  border-color:black !important;
+  border-radius:0px !important;
+  background-color:white !important;
+  color: black !important;
+  font-family: "ApercuMedium", Helvetica, Arial, sans-serif !important;
+
+}
+
+.btn-primary:hover{
+  border-width:1px !important;
+  border-color:black !important;
+  border-radius:0px !important;
+  background-color: #0C77D4 !important;
+  color: white !important;
+  font-family: "ApercuMedium", Helvetica, Arial, sans-serif !important;
+
+}
+
+/*
+==================================================================
+Pratt Style
+==================================================================
+*/
+
+font-family: 'ApercuBold';
+  src: url("https://www.pratt.edu/assets/fonts/apercu-bold-webfont.eot/fonts/apercu-bold-webfont.eot");
+  src: url("https://www.pratt.edu/assets/fonts/apercu-bold-webfont.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/apercu-bold-webfont.svg#ApercuBold") format("svg"), url("https://www.pratt.edu/assets/fonts/apercu-bold-webfont.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/apercu-bold-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuBoldItalic';
+  src: url("https://www.pratt.edu/assets/fonts/apercu-bolditalic-webfont.eot");
+  src: url("https://www.pratt.edu/assets/fonts/apercu-bolditalic-webfont.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/apercu-bolditalic-webfont.svg#ApercuBoldItalic") format("svg"), url("https://www.pratt.edu/assets/fonts/apercu-bolditalic-webfont.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/apercu-bolditalic-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuItalic';
+  src: url("https://www.pratt.edu/assets/fonts/apercu-italic-webfont.eot");
+  src: url("https://www.pratt.edu/assets/fonts/apercu-italic-webfont.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/apercu-italic-webfont.svg#ApercuItalic") format("svg"), url("https://www.pratt.edu/assets/fonts/apercu-italic-webfont.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/apercu-italic-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuRegular';
+  src: url("https://www.pratt.edu/assets/fonts/apercu-regular-webfont.eot");
+  src: url("https://www.pratt.edu/assets/fonts/apercu-regular-webfont.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/apercu-regular-webfont.svg#ApercuRegular") format("svg"), url("https://www.pratt.edu/assets/fonts/apercu-regular-webfont.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/apercu-regular-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuMedium';
+  src: url("https://www.pratt.edu/assets/fonts/apercu-medium-webfont.eot");
+  src: url("https://www.pratt.edu/assets/fonts/apercu-medium-webfont.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/apercu-medium-webfont.svg#ApercuMedium") format("svg"), url("https://www.pratt.edu/assets/fonts/apercu-medium-webfont.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/apercu-medium-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ApercuMediumItalic';
+  src: url("https://www.pratt.edu/assets/fonts/apercu-medium-italic-webfont.eot");
+  src: url("https://www.pratt.edu/assets/fonts/apercu-medium-italic-webfont.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/apercu-medium-italic-webfont.svg#ApercuMediumItalic") format("svg"), url("https://www.pratt.edu/assets/fonts/apercu-medium-italic-webfont.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/apercu-medium-italic-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Entypo';
+  src: url("https://www.pratt.edu/assets/fonts/entypo.eot");
+  src: url("https://www.pratt.edu/assets/fonts/entypo.eot?#iefix") format("embedded-opentype"), url("https://www.pratt.edu/assets/fonts/entypo.svg#Entypo") format("svg"), url("https://www.pratt.edu/assets/fonts/entypo.woff") format("woff"), url("https://www.pratt.edu/assets/fonts/entypo.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: "LyonRegular";
+	src: url("https://www.pratt.edu/assets/fonts/LyonText-Regular-Web.eot");
+	src: url("https://www.pratt.edu/assets/fonts/LyonText-Regular-Web.eot?#iefix") format("embedded-opentype"),
+		 url("https://www.pratt.edu/assets/fonts/LyonText-Regular-Web.woff") format("woff"),
+		 url("https://www.pratt.edu/assets/fonts/LyonText-Regular-Web.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "LyonItalic";
+	src: url("https://www.pratt.edu/assets/fonts/LyonText-RegularItalic-Web.eot");
+	src: url("https://www.pratt.edu/assets/fonts/LyonText-RegularItalic-Web.eot?#iefix") format("embedded-opentype"),
+		 url("https://www.pratt.edu/assets/fonts/LyonText-RegularItalic-Web.woff") format("woff"),
+		 url("https://www.pratt.edu/assets/fonts/LyonText-RegularItalic-Web.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "LyonBold";
+	src: url("https://www.pratt.edu/assets/fonts/LyonText-Bold-Web.eot");
+	src: url("https://www.pratt.edu/assets/fonts/LyonText-Bold-Web.eot?#iefix") format("embedded-opentype"),
+		 url("https://www.pratt.edu/assets/fonts/LyonText-Bold-Web.woff") format("woff"),
+		 url("https://www.pratt.edu/assets/fonts/LyonText-Bold-Web.woff2") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+	}
+
+@media (min-width:800px){
+.form-group{
+width:65%;
+margin:auto;
+margin-bottom:.88rem;
+}
+.btn-primary{
+margin-left:17%;}
+}
+
+.mat-checkbox-inner-container {
+    display: inline-block;
+    height: 20px !important;
+    line-height: 0;
+    margin: auto;
+    margin-right: 20px !important;
+    order: 0;
+    position: relative;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 20px !important;
+    flex-shrink: 0;
+}
+
+.hide {
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+
+/*Interactive Tutorial Customizations*/
+   .card { 
+border: 1px solid #333;
+    border-radius: 0;
+}
+
+.tutorial-panel {
+    background-color: white;
+}
+.form-group p{
+font-family: "ApercuRegular",  Helvetica,  Arial,  sans-serif;
+font-weight: normal;
+font-size:1.05em;
+letter-spacing:.02em;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: "ApercuMedium",  Helvetica,  Arial,  sans-serif;
+font-weight: normal;
+}
+
+p,  pre  {
+    font-family:  "LyonRegular",  Helvetica,  Arial,  sans-serif;
+    margin:  1.125em 0;
+    line-height:  1.55em;
+    font-size:  1.04em;
+    letter-spacing:  normal;
+}
+p a  {
+    color:  #000000;
+    padding:  2px;
+    border-bottom:  1px solid #0C77D4;
+    border-bottom-width:  1px;
+    border-bottom-style:  solid;
+    border-bottom-color:  #0C77D4;
+    box-shadow:  inset 0 -1px 0 #0C77D4;
+    text-decoration:  none;
+}
+p a:hover  {
+    color:  #FFFFFF;
+    background-color:  #0C77D4;
+    padding:  2px;
+    transition:  background .15s cubic-bezier(.33,  .66,  .66,  1);
+    transition-property:  background;
+    transition-duration:  0.15s;
+    transition-timing-function:  cubic-bezier(0.33,  0.66,  0.66,  1);
+    transition-delay:  0s;
+}
+
+#header-text{
+text-transform:uppercase;
+    font-size: 2.75em;
+    line-height: 1.5em;
+    margin-top: 0.13636em;
+    margin-bottom: 0.13636em;
+    line-height: 1em;
+    letter-spacing: 0.09em;
+}
+blockquote  {
+    margin:  1.5em 40px;
+}
+
+hr{
+    border-top: 1px solid rgba(0,0,0,1);
+}
+.slide-title.text-center{
+border-top:1px solid black;
+color:black;
+font-family: "ApercuMedium",  Helvetica,  Arial,  sans-serif;
+padding-top:5px;
+padding-bottom:5px;
+}
+
+button.btn{
+border-radius:0px;
+}
+
+.btn-dark {
+background-color:black;
+}
